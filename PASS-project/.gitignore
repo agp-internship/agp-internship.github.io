@@ -40,6 +40,8 @@ __pycache__/
 
 # Portable Network Graphics
 *.png
+*.PNG
+
 
 # Animated Portable Network Graphics
 *.apng
